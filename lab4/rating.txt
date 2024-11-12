@@ -1,0 +1,10 @@
+Rating {name = "Baravlev", grades = [5,5,5]}
+Rating {name = "Vasilchikov", grades = [4,5,4]}
+Rating {name = "Derkachev", grades = [3,3,3]}
+Rating {name = "Dubrovin", grades = [4,5,5]}
+Rating {name = "Zlobin", grades = [5,5,4,5,5]}
+Rating {name = "Katetynov", grades = [4,3,2]}
+Rating {name = "Kulikov", grades = [2,3,4]}
+Rating {name = "Osetrov", grades = [4,4,4]}
+Rating {name = "Rukavchenko", grades = [5,5,5]}
+Rating {name = "Savkov", grades = [3,4,4]}
